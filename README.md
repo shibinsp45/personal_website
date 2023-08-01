@@ -5,7 +5,7 @@ This repository contains my personal portfolio website built using HTML and CSS.
 
 ## Live Demo
 
-You can view the live demo of my portfolio website at [personal website](https://shibinsp45.github.io/personal_website/).
+You can view the live demo of my portfolio website at [personal website](https://shibinsp45.github.io/personal_website//).
 
 ## Features
 
