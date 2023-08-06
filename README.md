@@ -15,30 +15,6 @@ You can view the live demo of my portfolio website at [personal website](https:/
 - **Contact:** A contact form to get in touch with me directly.
 
 
-## How to Use
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/your-username/personal-portfolio.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```
-   cd personal-portfolio
-   ```
-
-3. Open the `index.html` file in your preferred web browser to view the website locally.
-
-## Customization
-
-Feel free to customize this portfolio to suit your own needs and preferences. Here are some areas you may want to consider changing:
-
-- **Content:** Update the `index.html` and `styles.css` files to replace my information with yours.
-- **Images:** Replace the images in the `img` folder with your own profile picture and project screenshots.
-- **Styling:** Modify the `styles.css` file to adjust the design and layout to your liking.
-
 ## Technologies Used
 
 - HTML5
